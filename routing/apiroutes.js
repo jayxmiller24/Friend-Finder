@@ -32,6 +32,7 @@ module.exports = function(app) {
                     bestMatch.photo = friends[i].photo;
                     bestMatch.friendDifference = totalDifference;
                 }
+                
             }
         }
 
